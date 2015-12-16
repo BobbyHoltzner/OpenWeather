@@ -1,0 +1,15 @@
+{
+    "name": "bh/openweather",
+    "description": "Connector for the OpenWeather API and Laravel 5.1",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "license": "eula",
+    "authors": [
+        {
+            "name": "Bobby Holtzner",
+            "email": "me@bobbyholtzner.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
